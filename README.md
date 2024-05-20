@@ -1,4 +1,4 @@
-Traffic Sign Classifier
+## Traffic Sign Classifier
 This repository contains a Jupyter Notebook that implements a traffic sign classifier using both TensorFlow and PyTorch. The notebook demonstrates how to build, train, and evaluate sequential models in both frameworks to classify traffic signs from images.
 
 Table of Contents
