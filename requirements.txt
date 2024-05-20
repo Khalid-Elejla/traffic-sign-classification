@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+Pillow   # PIL is now known as Pillow
+scikit-learn   # sklearn is installed via scikit-learn package
+tensorflow
+tqdm
